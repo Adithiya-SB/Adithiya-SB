@@ -5,7 +5,7 @@
 *Building practical projects to grow into an industry-ready AI engineer.*
 
 [LinkedIn](https://www.linkedin.com/in/adithiya-s-b-786b20290) | 
-[GitHub](https://github.com/Adithiya-SB) | 
+[Instagram](https://www.instagram.com/adithiya.mac?igsh=cWQ4MzQ2aGV5bHpn) | 
 [Email](mailto:adithiyasb34@gmail.com)
 
 ---
