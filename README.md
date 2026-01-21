@@ -4,7 +4,9 @@
 
 *Building practical projects to grow into an industry-ready AI engineer.*
 
-[LinkedIn](www.linkedin.com/in/adithiya-s-b-786b20290) | [GitHub](https://github.com/Adithiya-SB) | [Email](adithyasb34@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/adithiya-s-b-786b20290) | 
+[GitHub](https://github.com/Adithiya-SB) | 
+[Email](mailto:adithiyasb34@gmail.com)
 
 ---
 
