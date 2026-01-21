@@ -1,10 +1,10 @@
-# Hi, I'm Adithiya S. B. 👋
+# Hi, I'm Adithiya S.B 👋
 
 ### AI & Machine Learning Student | Full Stack Developer
 
 *Building practical projects to grow into an industry-ready AI engineer.*
 
-[LinkedIn](YOUR_LINK) | [GitHub](YOUR_LINK) | [Email](mailto:YOUR_EMAIL)
+[LinkedIn](www.linkedin.com/in/adithiya-s-b-786b20290) | [GitHub](https://github.com/Adithiya-SB) | [Email](adithyasb34@gmail.com)
 
 ---
 
