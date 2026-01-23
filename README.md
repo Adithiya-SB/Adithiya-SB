@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech student in **Artificial Intelligence & Machine Learning** (SRM Trichy)
+* 🎓 B.Tech student in **Artificial Intelligence & Machine Learning** (SRM IST Trichy)
 * 💡 Believe in **learning by building real-world projects**
 * 🧠 Interested in **AI, Machine Learning, Computer Vision, and Backend Systems**
 * 🎯 Goal: Secure **internships, placements, and research opportunities** while strengthening core fundamentals
