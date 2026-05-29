@@ -23,7 +23,7 @@
 
 | Category              | Tools & Technologies                    |
 | :-------------------- | :-------------------------------------- |
-| **Languages**         | Python,                                 |
+| **Languages**         | Python                                  |
 | **AI & Data Science** | TensorFlow, PyTorch, OpenCV, Pandas     |
 | **Web Development**   | React, Three.js, Tailwind CSS           |
 | **Backend & Cloud**   | Flask, Spring Boot, MySQL, MongoDB, GCP |
